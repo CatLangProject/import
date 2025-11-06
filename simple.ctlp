@@ -1,3 +1,3 @@
 IMPORT_FILE
-print "Welcome to use simple cat."
-print "This is a simple test import file."
+# 請勿修改文件内容！
+# simple.ctlp為默認引用文件，無需設定即可包含
