@@ -1,0 +1,6 @@
+IMPORT_FILE
+#Hello Marry
+import simple
+print "Hello Marry!This is a simple for CatLang study."
+print "It is very easy to study."
+print "You can try to use 'print "Hello World!"' in your code."
