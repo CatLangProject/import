@@ -1,0 +1,6 @@
+IMPORT_FILE
+# 此文件為import範本，你可以修改此文件來製作屬於你的import文件。
+import simple
+import math
+import add_math
+print "這是個範本，你可以修改它！"
