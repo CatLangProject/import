@@ -1,2 +1,4 @@
 IMPORT_FILE
-# math
+# This is for easy math calculator.
+import simple
+import add_math
