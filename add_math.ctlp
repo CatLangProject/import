@@ -1,0 +1,35 @@
+IMPORT_FILE
+# Import file "add_math".
+# You can use "import add_math" to import this file to your code.
+# Edit in : 2025/11/05,by wei530601
+
+PITN
+import math
+
+def sqrt(x):
+    return math.sqrt(x)
+
+def square(x):
+    return x * x
+
+def cube(x):
+    return x * x * x
+
+def log(x):
+    # natural logarithm
+    return math.log(x)
+
+def sin(x):
+    return math.sin(x)
+
+def cos(x):
+    return math.cos(x)
+
+def tan(x):
+    return math.tan(x)
+
+# Optionally you can expose other helpers:
+def hypot(x, y):
+    return math.hypot(x, y)
+
+
