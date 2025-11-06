@@ -1,0 +1,3 @@
+IMPORT_FILE
+print "Welcome to use simple cat."
+print "This is a simple test import file."
